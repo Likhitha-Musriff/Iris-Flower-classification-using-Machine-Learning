@@ -10,9 +10,9 @@ This project uses the Iris dataset to build a machine learning model to classify
 
 ## Steps:
 1. Data Loading and Preprocessing
-2. Exploratory Data Analysis (EDA)
-3. Model Building
-4. Model Evaluation
+2. Logistic Regression Model
+3. Random Forest Model
+4. Model Evaluation and Comparison
 
 ## Run Instructions:
 1. Install dependencies: `pip install -r requirements.txt`
